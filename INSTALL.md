@@ -78,7 +78,7 @@ cmake -DCMAKE_INCLUDE_PATH=/usr/include/tango ..
 First clone the repository:
 
 ```
-git clone https://github.com/Matteo04052017/HDBELK.git
+git clone https://github.com/tango-controls-hdbpp/libhdbpp-elk.git
 ```
 
 An out of source build is required by the CMakeLists file, so create a build directory to run CMake from:
