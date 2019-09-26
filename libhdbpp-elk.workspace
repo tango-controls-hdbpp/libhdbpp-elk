@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="libhdbpp-elk" Database="">
+  <Project Name="libhdbpp-elk" Path="libhdbpp-elk.project" Active="Yes"/>
+  <Project Name="Tests" Path="../../ELK Tests/Tests/Tests.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="libhdbpp-elk" ConfigName="Debug"/>
+      <Project Name="Tests" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="libhdbpp-elk" ConfigName="Debug"/>
+      <Project Name="Tests" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

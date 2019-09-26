@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/home/osboxes/tango-dev/HDB++/libhdbpp-elk/libhdbpp-elk.workspace">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="/home/osboxes/tango-dev/HDB++/libhdbpp-elk/libhdbpp-elk.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/home/osboxes/tango-dev/HDB++/libhdbpp-elk/src/LibHdb++ELK.cpp" Name="FileName"/>
+      <int Value="537" Name="FirstVisibleLine"/>
+      <int Value="564" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/osboxes/tango-dev/HDB++/libhdbpp-elk/src/DataObjects.h" Name="FileName"/>
+      <int Value="104" Name="FirstVisibleLine"/>
+      <int Value="116" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/osboxes/tango-dev/HDB++/libhdbpp-elk/src/DataObjects.cpp" Name="FileName"/>
+      <int Value="577" Name="FirstVisibleLine"/>
+      <int Value="594" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/osboxes/tango-dev/HDB++/libhdbpp-elk/src/LibHdb++Defines.h" Name="FileName"/>
+      <int Value="42" Name="FirstVisibleLine"/>
+      <int Value="167" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/osboxes/tango-dev/HDB++/libhdbpp-elk/src/DAL.h" Name="FileName"/>
+      <int Value="21" Name="FirstVisibleLine"/>
+      <int Value="40" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/osboxes/tango-dev/HDB++/libhdbpp-elk/src/DAL.cpp" Name="FileName"/>
+      <int Value="259" Name="FirstVisibleLine"/>
+      <int Value="267" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/osboxes/tango-dev/HDB++/libhdbpp-elk/src/LibHdb++ELK.h" Name="FileName"/>
+      <int Value="63" Name="FirstVisibleLine"/>
+      <int Value="80" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/osboxes/chef-repo/local-mode-cache/cache/tango-9.1.0/lib/cpp/client/devapi_attr.cpp" Name="FileName"/>
+      <int Value="5736" Name="FirstVisibleLine"/>
+      <int Value="5744" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/osboxes/tango-dev/HDB++/libhdbpp-cassandra/src/LibHdb++Cassandra.cpp" Name="FileName"/>
+      <int Value="702" Name="FirstVisibleLine"/>
+      <int Value="711" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="3" Name="Count"/>
+    <SerializedObject Name="Breakpoint0">
+      <wxString Value="/home/osboxes/tango-dev/HDB++/libhdbpp-elk/src/DAL.cpp" Name="file"/>
+      <int Value="31" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint1">
+      <wxString Value="/home/osboxes/tango-dev/HDB++/libhdbpp-elk/src/DAL.cpp" Name="file"/>
+      <int Value="39" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+    <SerializedObject Name="Breakpoint2">
+      <wxString Value="/home/osboxes/tango-dev/HDB++/libhdbpp-elk/src/DAL.cpp" Name="file"/>
+      <int Value="41" Name="lineno"/>
+      <wxString Value="" Name="function_name"/>
+      <wxString Value="" Name="memory_address"/>
+      <int Value="1" Name="bp_type"/>
+      <int Value="0" Name="watchpoint_type"/>
+      <wxString Value="" Name="watchpt_data"/>
+      <CData Name="commandlist"/>
+      <bool Value="0" Name="regex"/>
+      <bool Value="0" Name="is_temp"/>
+      <bool Value="1" Name="is_enabled"/>
+      <int Value="0" Name="ignore_number"/>
+      <wxString Value="" Name="conditions"/>
+      <int Value="0" Name="origin"/>
+    </SerializedObject>
+  </SerializedObject>
+</Session>
